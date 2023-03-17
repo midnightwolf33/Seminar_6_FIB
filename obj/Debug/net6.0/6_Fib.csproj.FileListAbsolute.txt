@@ -1,0 +1,15 @@
+D:\Учеба\Seminars\6_Fib\bin\Debug\net6.0\6_Fib.exe
+D:\Учеба\Seminars\6_Fib\bin\Debug\net6.0\6_Fib.deps.json
+D:\Учеба\Seminars\6_Fib\bin\Debug\net6.0\6_Fib.runtimeconfig.json
+D:\Учеба\Seminars\6_Fib\bin\Debug\net6.0\6_Fib.dll
+D:\Учеба\Seminars\6_Fib\bin\Debug\net6.0\6_Fib.pdb
+D:\Учеба\Seminars\6_Fib\obj\Debug\net6.0\6_Fib.csproj.AssemblyReference.cache
+D:\Учеба\Seminars\6_Fib\obj\Debug\net6.0\6_Fib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Seminars\6_Fib\obj\Debug\net6.0\6_Fib.AssemblyInfoInputs.cache
+D:\Учеба\Seminars\6_Fib\obj\Debug\net6.0\6_Fib.AssemblyInfo.cs
+D:\Учеба\Seminars\6_Fib\obj\Debug\net6.0\6_Fib.csproj.CoreCompileInputs.cache
+D:\Учеба\Seminars\6_Fib\obj\Debug\net6.0\6_Fib.dll
+D:\Учеба\Seminars\6_Fib\obj\Debug\net6.0\refint\6_Fib.dll
+D:\Учеба\Seminars\6_Fib\obj\Debug\net6.0\6_Fib.pdb
+D:\Учеба\Seminars\6_Fib\obj\Debug\net6.0\6_Fib.genruntimeconfig.cache
+D:\Учеба\Seminars\6_Fib\obj\Debug\net6.0\ref\6_Fib.dll
